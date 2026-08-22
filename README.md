@@ -1,45 +1,50 @@
-# Hi, I'm Pallavi Vholgade 👋
+<div align="center">
 
-B.E. AIML Graduate  Data Science • Analytics • AIML • Machine Learning • GenAI • Python
+Pallavi Vholgade
+
+B.E. AIML Graduate · Data Science · Analytics · AI/ML · Machine Learning · GenAI · Python
+
+Portfolio ·
+LinkedIn ·
+Email
+
+</div>
+
+♡ About Me
 
 I build intelligent systems from data — from analysis and prediction to AI-powered applications.
 
-Currently focused on practical work across Data Science, Data Analytics, Machine Learning, AIML, Generative AI, NLP and Python-based development.
+Focused on Data Science, Data Analytics, Machine Learning, AI/ML, Generative AI, NLP, and Python-based development.
 
-## 🚀 Featured Projects
+I enjoy turning real-world problems into practical solutions through data analysis, model building, backend development, and intelligent applications.
 
-### DriverGuard AI
-Real-time driver fatigue and distraction detection for Android using Flutter, Dart, Google ML Kit and TensorFlow Lite.
+🛠 Languages and Tools
 
-[View Project](httpsgithub.compallavivhalgadeAI-Based-Driver-Fatigue-and-Distraction-Detection)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,flutter,dart,tensorflow,sklearn,pandas,numpy,git,github,html,css&perline=12" />
+</p>
 
-### Interview Prep Agent
-Agentic interview-preparation application with resume–JD matching, skill-gap analysis and AI-generated interview preparation workflows.
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Groq-FF6B35?style=for-the-badge" />
+</p>
 
-[View Project](httpsgithub.compallavivhalgadeinterview-prep-agent) · [Live Demo](httpsinterview-prep-agent-94gjmmzu9q3w9gp4by8uan.streamlit.app)
+✦ Featured Work
 
-### SmartHealth Appointment System
-Role-based healthcare appointment management platform built with Python and Django.
+DriverGuard AI — real-time driver fatigue and distraction detection for Android.
 
-[View Project](httpsgithub.compallavivhalgadesmart-health-appointment) · [Live Demo](httpssmart-health-appointment-1.onrender.com)
+Interview Prep Agent — agentic interview preparation with resume–JD matching and skill-gap analysis. Live Demo
 
-## 🛠 Tech Stack
+SmartHealth Appointment System — role-based healthcare appointment management with Django. Live Demo
 
-![Python](httpsimg.shields.iobadgePython-3776ABstyle=flat-square&logo=python&logoColor=white)
-![Django](httpsimg.shields.iobadgeDjango-092E20style=flat-square&logo=django&logoColor=white)
-![Pandas](httpsimg.shields.iobadgePandas-150458style=flat-square&logo=pandas&logoColor=white)
-![NumPy](httpsimg.shields.iobadgeNumPy-013243style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](httpsimg.shields.iobadgeScikit--learn-F7931Estyle=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](httpsimg.shields.iobadgeTensorFlow-FF6F00style=flat-square&logo=tensorflow&logoColor=white)
-![Streamlit](httpsimg.shields.iobadgeStreamlit-FF4B4Bstyle=flat-square&logo=streamlit&logoColor=white)
-![Flutter](httpsimg.shields.iobadgeFlutter-02569Bstyle=flat-square&logo=flutter&logoColor=white)
-![Dart](httpsimg.shields.iobadgeDart-0175C2style=flat-square&logo=dart&logoColor=white)
-![SQL](httpsimg.shields.iobadgeSQL-336791style=flat-square)
-![Git](httpsimg.shields.iobadgeGit-F05032style=flat-square&logo=git&logoColor=white)
-![GitHub](httpsimg.shields.iobadgeGitHub-181717style=flat-square&logo=github&logoColor=white)
+Portfolio — personal portfolio showcasing projects, experience, education, and technical stack.
 
-## 🔗 Connect
+<div align="center">
 
-[Portfolio](httpspallavivhalgade.github.ioPallavi-s_portfolio)  
-[LinkedIn](httpswww.linkedin.cominpallavi-vholgade-05565b24b)  
-[Email](mailtopallavivhalgade@gmail.com)
+Building with data, models, and AI — one practical system at a time.
+
+</div>
