@@ -3,11 +3,15 @@
 
 <td width="34%" align="center" valign="middle">
 
+<div align="center">
+
 <img
   src="https://raw.githubusercontent.com/pallavivhalgade/pallavivhalgade/main/Pallavi_VH.png"
   width="250"
   alt="Pallavi Vholgade Avatar"
 />
+
+</div>
 
 </td>
 
