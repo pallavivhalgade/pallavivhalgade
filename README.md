@@ -1,8 +1,9 @@
 <table>
 <tr>
-<td width="34%" align="center">
 
-<img src="./assets/pallavi-avatar.png" width="260" alt="Pallavi Vholgade avatar"/>
+<td width="34%" align="center" valign="middle">
+
+<img src="./Pallavi_VH.png" width="250" alt="Pallavi Vholgade Avatar"/>
 
 </td>
 
