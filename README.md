@@ -122,7 +122,6 @@ I enjoy turning real-world problems into practical, understandable, and useful p
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
 <td width="50%" valign="top">
 
@@ -138,20 +137,24 @@ Real-time Android driver safety application that detects drowsiness and distract
 
 </td>
 
+<td width="50%" valign="top">
+
 ### 🤖 Interview Prep Agent
 
 AI-powered interview preparation application that analyzes resumes and job descriptions to generate role-specific questions, grounded answers, skill-gap insights, and personalized study plans.
 
 `Python` `Streamlit` `Groq LLM` `Sentence Transformers` `Generative AI`
 
+**Key Features:** Resume–JD matching · Skill-gap analysis · Role-specific interview questions · Grounded answers · AI question review · Personalized study plans
+
 **[View Repository ↗](https://github.com/pallavivhalgade/interview-prep-agent)** · **[Live Demo ↗](https://interview-prep-agent-94gjmmzu9q3w9gp4by8uan.streamlit.app/)**
 
 </td>
 
-</td>
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🏥 SmartHealth Appointment System
@@ -160,9 +163,12 @@ Role-based healthcare appointment platform with secure scheduling, validation, a
 
 `Python` `Django` `SQLite` `Render`
 
+**Key Features:** Role-based authentication · Doctor/Patient dashboards · Appointment booking · Edit/Cancel appointments · Database integration
+
 **[View Repository ↗](https://github.com/pallavivhalgade/smart-health-appointment)** · **[Live Demo ↗](https://smart-health-appointment-1.onrender.com)**
 
 </td>
+
 <td width="50%" valign="top">
 
 ### ✦ Personal Portfolio
@@ -171,9 +177,12 @@ My portfolio showcasing projects, experience, education, technical stack, and co
 
 `HTML` `CSS` `JavaScript` `GitHub Pages`
 
+**Key Features:** Responsive design · Project showcase · Resume · Skills · Contact links
+
 **[Visit Portfolio ↗](https://pallavivhalgade.github.io/Pallavi-s_portfolio/)**
 
 </td>
+
 </tr>
 </table>
 
