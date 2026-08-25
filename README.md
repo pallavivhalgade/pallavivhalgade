@@ -133,7 +133,7 @@ Real-time Android driver safety application that detects drowsiness and distract
 
 **Key Features:** Eye-closure detection · Yawn detection · Head-pose monitoring · Offline on-device inference · Voice alerts · Emergency contacts · Automatic SMS alerts · Repeated SMS escalation
 
-**[View Repository ↗](https://github.com/pallavivhalgade/AI-Based-Driver-Fatigue-and-Distraction-Detection)**
+**[View Repository ↗](https://github.com/pallavivhalgade/AI-Based-Driver-Fatigue-and-Distraction-Detection)** · **[Download APK ↗](https://github.com/pallavivhalgade/AI-Based-Driver-Fatigue-and-Distraction-Detection/releases/download/v1.0.0/app-release.apk)**
 
 </td>
 
@@ -173,13 +173,13 @@ Role-based healthcare appointment platform with secure scheduling, validation, a
 
 ### ✦ Personal Portfolio
 
-My portfolio showcasing projects, experience, education, technical stack, and contact links.
+My updated portfolio showcasing AI/ML projects, experience, technical skills, education, resume, live demos, and the DriverGuard AI Android application.
 
 `HTML` `CSS` `JavaScript` `GitHub Pages`
 
-**Key Features:** Responsive design · Project showcase · Resume · Skills · Contact links
+**Key Features:** Responsive design · AI/ML project showcase · Live demos · DriverGuard APK · Resume · Skills · Experience · Contact links
 
-**[Visit Portfolio ↗](https://pallavivhalgade.github.io/Pallavi-s_portfolio/)**
+**[Visit Updated Portfolio ↗](https://pallavivhalgade.github.io/Pallavi-s_portfolio/)**
 
 </td>
 
