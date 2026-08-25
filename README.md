@@ -72,30 +72,78 @@ I enjoy turning real-world problems into practical, understandable, and useful p
 
 <table>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="38"><br><sub><b>Python</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="38"><br><sub><b>Pandas</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="38"><br><sub><b>NumPy</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="38"><br><sub><b>Scikit-learn</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="38"><br><sub><b>SQL / SQLite</b></sub></td>
+
 <td align="center">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="38">
-  <br>
-  <sub><b>Power BI</b></sub>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="38">
+<br><sub><b>Python</b></sub>
 </td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="38">
+<br><sub><b>Pandas</b></sub>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="38">
+<br><sub><b>NumPy</b></sub>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="38">
+<br><sub><b>Scikit-learn</b></sub>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="38">
+<br><sub><b>SQL / SQLite</b></sub>
+</td>
+
+<td align="center">
+<a href="https://app.powerbi.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="38">
+</a>
+<br><sub><b>Power BI</b></sub>
+</td>
+
 </tr>
 </table>
+
 
 ### AI / ML / GenAI
 
 <table>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="38"><br><sub><b>TensorFlow</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="38"><br><sub><b>OpenCV</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="38"><br><sub><b>Transformers</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/google/4285F4" width="38"><br><sub><b>Google ML Kit</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/ibm/052FAD" width="38"><br><sub><b>IBM Cloud</b></sub></td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="38">
+<br><sub><b>TensorFlow</b></sub>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="38">
+<br><sub><b>OpenCV</b></sub>
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="38">
+<br><sub><b>Transformers</b></sub>
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/google/4285F4" width="38">
+<br><sub><b>Google ML Kit</b></sub>
+</td>
+
+<td align="center">
+<a href="https://cloud.ibm.com/login" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/ibm/052FAD" width="38">
+</a>
+<br><sub><b>IBM Cloud</b></sub>
+</td>
+
 </tr>
 </table>
+
 
 <p>
 <img src="https://img.shields.io/badge/TensorFlow_Lite-On--Device_AI-FF6F00?style=flat-square">
@@ -106,22 +154,59 @@ I enjoy turning real-world problems into practical, understandable, and useful p
 <img src="https://img.shields.io/badge/Computer_Vision-AI-059669?style=flat-square">
 </p>
 
+
 ### Development & Tools
 
 <table>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="38"><br><sub><b>Django</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="38"><br><sub><b>Streamlit</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="38"><br><sub><b>Flutter</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="38"><br><sub><b>Dart</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="38"><br><sub><b>Android</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="38"><br><sub><b>Pytest</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38"><br><sub><b>Git</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="38"><br><sub><b>GitHub</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="38"><br><sub><b>Actions</b></sub></td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="38">
+<br><sub><b>Django</b></sub>
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="38">
+<br><sub><b>Streamlit</b></sub>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="38">
+<br><sub><b>Flutter</b></sub>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="38">
+<br><sub><b>Dart</b></sub>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="38">
+<br><sub><b>Android</b></sub>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="38">
+<br><sub><b>Pytest</b></sub>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38">
+<br><sub><b>Git</b></sub>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="38">
+<br><sub><b>GitHub</b></sub>
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" width="38">
+<br><sub><b>Actions</b></sub>
+</td>
+
 </tr>
 </table>
-
 ---
 
 ## ☆ Featured Projects
