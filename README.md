@@ -124,24 +124,29 @@ I enjoy turning real-world problems into practical, understandable, and useful p
 <tr>
 <td width="50%" valign="top">
 
+<td width="50%" valign="top">
+
 ### 🚗 DriverGuard AI
 
-Real-time driver fatigue and distraction detection for Android using on-device vision, alerts, and safety workflows.
+Real-time Android driver safety application that detects drowsiness and distraction using on-device computer vision and AI, with offline monitoring, voice warnings, and emergency SMS escalation.
 
-`Python` `Flutter` `Dart` `TensorFlow Lite` `Google ML Kit`
+`Flutter` `Dart` `TensorFlow Lite` `Google ML Kit` `Computer Vision` `Python`
+
+**Key Features:** Eye-closure detection · Yawn detection · Head-pose monitoring · Offline on-device inference · Voice alerts · Emergency contacts · Automatic SMS alerts · Repeated SMS escalation
 
 **[View Repository ↗](https://github.com/pallavivhalgade/AI-Based-Driver-Fatigue-and-Distraction-Detection)**
 
 </td>
-<td width="50%" valign="top">
 
 ### 🤖 Interview Prep Agent
 
-Agentic interview preparation with resume–JD matching, skill-gap analysis, reviewed questions, and focused study planning.
+AI-powered interview preparation application that analyzes resumes and job descriptions to generate role-specific questions, grounded answers, skill-gap insights, and personalized study plans.
 
-`Python` `Streamlit` `Llama 3.1` `Sentence Transformers` `Groq`
+`Python` `Streamlit` `Groq LLM` `Sentence Transformers` `Generative AI`
 
 **[View Repository ↗](https://github.com/pallavivhalgade/interview-prep-agent)** · **[Live Demo ↗](https://interview-prep-agent-94gjmmzu9q3w9gp4by8uan.streamlit.app/)**
+
+</td>
 
 </td>
 </tr>
