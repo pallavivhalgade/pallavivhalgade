@@ -77,7 +77,11 @@ I enjoy turning real-world problems into practical, understandable, and useful p
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="38"><br><sub><b>NumPy</b></sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="38"><br><sub><b>Scikit-learn</b></sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="38"><br><sub><b>SQL / SQLite</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="38"><br><sub><b>Power BI</b></sub></td>
+<td align="center">
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="38">
+  <br>
+  <sub><b>Power BI</b></sub>
+</td>
 </tr>
 </table>
 
