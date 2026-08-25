@@ -66,7 +66,6 @@ I enjoy turning real-world problems into practical, understandable, and useful p
 </table>
 
 ---
-
 ## </> Tech Stack
 
 ### Languages & Data
@@ -87,19 +86,20 @@ I enjoy turning real-world problems into practical, understandable, and useful p
 <table>
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="38"><br><sub><b>TensorFlow</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="38"><br><sub><b>OpenCV</b></sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="38"><br><sub><b>Transformers</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="38"><br><sub><b>LangChain</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="38"><br><sub><b>Streamlit</b></sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/google/4285F4" width="38"><br><sub><b>Google ML Kit</b></sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/ibm/052FAD" width="38"><br><sub><b>IBM Cloud</b></sub></td>
 </tr>
 </table>
 
 <p>
+<img src="https://img.shields.io/badge/TensorFlow_Lite-On--Device_AI-FF6F00?style=flat-square">
+<img src="https://img.shields.io/badge/Sentence_Transformers-Semantic_Matching-FFD21E?style=flat-square">
 <img src="https://img.shields.io/badge/LLMs-Generative_AI-7C3AED?style=flat-square">
 <img src="https://img.shields.io/badge/NLP-Natural_Language_Processing-2563EB?style=flat-square">
-<img src="https://img.shields.io/badge/LangGraph-Agentic_AI-111827?style=flat-square">
 <img src="https://img.shields.io/badge/Groq-LLM_API-EA4C89?style=flat-square">
+<img src="https://img.shields.io/badge/Computer_Vision-AI-059669?style=flat-square">
 </p>
 
 ### Development & Tools
@@ -107,9 +107,11 @@ I enjoy turning real-world problems into practical, understandable, and useful p
 <table>
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="38"><br><sub><b>Django</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="38"><br><sub><b>Streamlit</b></sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="38"><br><sub><b>Flutter</b></sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="38"><br><sub><b>Dart</b></sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="38"><br><sub><b>Android</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="38"><br><sub><b>Pytest</b></sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38"><br><sub><b>Git</b></sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="38"><br><sub><b>GitHub</b></sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="38"><br><sub><b>Actions</b></sub></td>
