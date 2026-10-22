@@ -1,14 +1,14 @@
+```html
 <table>
 <tr>
-
 <td width="34%" align="center" valign="middle">
 
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/pallavivhalgade/pallavivhalgade/main/Pallavi_VH.png"
-  width="250"
-  alt="Pallavi Vholgade Avatar"
+ src="https://raw.githubusercontent.com/pallavivhalgade/pallavivhalgade/main/Pallavi_VH.png"
+ width="250"
+ alt="Pallavi Vholgade Avatar"
 />
 
 </div>
@@ -16,7 +16,6 @@
 </td>
 
 <td width="66%" valign="middle">
-
 
 ### Hi, I'm 👋
 
@@ -29,10 +28,10 @@
 I turn data into intelligence and ideas into practical systems.
 
 <p>
-<a href="https://pallavivhalgade.github.io/Pallavi-s_portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://pallavi-portfolio-preview.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/pallavi-vholgade-05565b24b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:pallavivhalgade@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4C89?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://pallavivhalgade.github.io/Pallavi-s_portfolio/#resume"><img src="https://img.shields.io/badge/Resume-View-111827?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
+<a href="https://pallavi-portfolio-preview.vercel.app/#resume"><img src="https://img.shields.io/badge/Resume-View-111827?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
 </p>
 
 </td>
@@ -66,6 +65,7 @@ I enjoy turning real-world problems into practical, understandable, and useful p
 </table>
 
 ---
+
 ## </> Tech Stack
 
 ### Languages & Data
@@ -108,7 +108,6 @@ I enjoy turning real-world problems into practical, understandable, and useful p
 </tr>
 </table>
 
-
 ### AI / ML / GenAI
 
 <table>
@@ -144,7 +143,6 @@ I enjoy turning real-world problems into practical, understandable, and useful p
 </tr>
 </table>
 
-
 <p>
 <img src="https://img.shields.io/badge/TensorFlow_Lite-On--Device_AI-FF6F00?style=flat-square">
 <img src="https://img.shields.io/badge/Sentence_Transformers-Semantic_Matching-FFD21E?style=flat-square">
@@ -153,7 +151,6 @@ I enjoy turning real-world problems into practical, understandable, and useful p
 <img src="https://img.shields.io/badge/Groq-LLM_API-EA4C89?style=flat-square">
 <img src="https://img.shields.io/badge/Computer_Vision-AI-059669?style=flat-square">
 </p>
-
 
 ### Development & Tools
 
@@ -207,6 +204,7 @@ I enjoy turning real-world problems into practical, understandable, and useful p
 
 </tr>
 </table>
+
 ---
 
 ## ☆ Featured Projects
@@ -270,7 +268,7 @@ My updated portfolio showcasing AI/ML projects, experience, technical skills, ed
 
 **Key Features:** Responsive design · AI/ML project showcase · Live demos · DriverGuard APK · Resume · Skills · Experience · Contact links
 
-**[Visit Updated Portfolio ↗](https://pallavivhalgade.github.io/Pallavi-s_portfolio/)**
+**[Visit Updated Portfolio ↗](https://pallavi-portfolio-preview.vercel.app/)**
 
 </td>
 
@@ -284,3 +282,4 @@ My updated portfolio showcasing AI/ML projects, experience, technical skills, ed
 ### ✦ Building with data, models, and AI — one practical system at a time. 💜
 
 </div>
+```
