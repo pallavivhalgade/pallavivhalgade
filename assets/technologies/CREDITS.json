@@ -1,0 +1,22 @@
+{
+  "baseAssetCredits": "technology-credits.json",
+  "note": "PNG tiles preserve original brand assets on neutral backgrounds. General concepts use original technical symbols.",
+  "additional": [
+    {
+      "name": "Power BI",
+      "source": "https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/powerbi.svg"
+    },
+    {
+      "name": "Android",
+      "source": "https://cdn.jsdelivr.net/gh/devicons/devicon@6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/android/android-original.svg"
+    },
+    {
+      "name": "pytest",
+      "source": "https://cdn.jsdelivr.net/gh/devicons/devicon@6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/pytest/pytest-original.svg"
+    },
+    {
+      "name": "GitHub Actions",
+      "source": "https://cdn.jsdelivr.net/gh/devicons/devicon@6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/githubactions/githubactions-original.svg"
+    }
+  ]
+}
