@@ -162,7 +162,7 @@ Real-time Android driver safety application that detects drowsiness and distract
 
 **Key Features:** Eye-closure detection · Yawn detection · Head-pose monitoring · Offline on-device inference · Voice alerts · Emergency contacts · Automatic SMS alerts · Repeated SMS escalation
 
-**[View Repository ↗](https://github.com/pallavivhalgade/AI-Based-Driver-Fatigue-and-Distraction-Detection)** · **[Download APK ↗](https://github.com/pallavivhalgade/AI-Based-Driver-Fatigue-and-Distraction-Detection/releases/download/v1.0.0/app-release.apk)**
+**[View Repository ↗](https://github.com/pallavivhalgade/AI-Based-Driver-Fatigue-and-Distraction-Detection)** · **[Download APK ↗](https://github.com/pallavivhalgade/AI-Based-Driver-Fatigue-and-Distraction-Detection/releases/download/v1.3.0/DriverGuard-AI-v1.3.0.apk)**
 
 </td>
 
