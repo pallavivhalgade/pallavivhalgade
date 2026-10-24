@@ -74,6 +74,31 @@ I enjoy turning real-world problems into practical, understandable, and useful p
 <a id="technology-toolkit"></a>
 ## </> Tech Stack
 
+<!-- compact-stack:start -->
+<p>
+<a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="23"></a>
+<a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" height="23"></a>
+<a href="https://pandas.pydata.org/docs/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="23"></a>
+<a href="https://numpy.org/doc/"><img src="https://img.shields.io/badge/NumPy-4DABCF?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" height="23"></a>
+<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" height="23"></a>
+<a href="https://www.tensorflow.org/lite"><img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow Lite" height="23"></a>
+<a href="https://docs.opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" height="23"></a>
+<a href="https://docs.djangoproject.com/"><img src="https://img.shields.io/badge/Django-245544?style=flat-square&logo=django&logoColor=white" alt="Django" height="23"></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" height="23"></a>
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white" alt="React" height="23"></a>
+<a href="https://docs.flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" height="23"></a>
+<a href="https://docs.streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" height="23"></a>
+<a href="https://console.groq.com/docs"><img src="https://img.shields.io/badge/Groq-D94A29?style=flat-square" alt="Groq" height="23"></a>
+<a href="https://docs.ollama.com/"><img src="https://img.shields.io/badge/Ollama-333333?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" height="23"></a>
+<a href="https://docs.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" height="23"></a>
+<a href="https://pallavi-portfolio-preview.vercel.app/#stack"><img src="https://img.shields.io/badge/Generative%20AI-805AD5?style=flat-square" alt="Generative AI" height="23"></a>
+<a href="https://pallavi-portfolio-preview.vercel.app/#stack"><img src="https://img.shields.io/badge/RAG-2563EB?style=flat-square" alt="RAG" height="23"></a>
+<a href="https://pallavi-portfolio-preview.vercel.app/#stack"><img src="https://img.shields.io/badge/NLP-00897B?style=flat-square" alt="NLP" height="23"></a>
+<a href="https://docs.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="23"></a>
+<a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="23"></a>
+</p>
+<!-- compact-stack:end -->
+
 Click a logo to open its documentation. Expand or collapse a group to explore the tools. Brand marks keep their original colours; general AI concepts use consistent technical symbols.
 
 <details open>
