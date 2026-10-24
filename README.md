@@ -38,13 +38,8 @@ I turn data into intelligence and ideas into practical systems.
 </tr>
 </table>
 
-**Explore:** [About me](#about-me) · [Technology toolkit](#technology-toolkit) · [Featured projects](#featured-work) · [Full portfolio](https://pallavi-portfolio-preview.vercel.app)
-
-
-
 ---
 
-<a id="about-me"></a>
 ## ♡ About Me
 
 <table>
@@ -71,117 +66,87 @@ I enjoy turning real-world problems into practical, understandable, and useful p
 
 ---
 
-<a id="technology-toolkit"></a>
 ## </> Tech Stack
 
-Each technology appears once: its original logo with a compact coloured name label. Click a tile to open its documentation. Expand or collapse a group to explore the tools. Brand marks keep their original colours; general AI concepts use consistent technical symbols.
-
-<details open>
-<summary><strong>Application Development</strong> &middot; 11 tools</summary>
+### Languages & Data
 
 <table>
 <tr>
-<td align="center" width="110"><a href="https://docs.python.org/3/" title="Python documentation"><img src="./assets/technologies/python.png" width="48" height="48" alt="Python logo"><br><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python" height="20"></a></td>
-<td align="center" width="110"><a href="https://docs.djangoproject.com/" title="Django documentation"><img src="./assets/technologies/django.png" width="48" height="48" alt="Django logo"><br><img src="https://img.shields.io/badge/Django-245544?style=flat-square" alt="Django" height="20"></a></td>
-<td align="center" width="110"><a href="https://fastapi.tiangolo.com/" title="FastAPI documentation"><img src="./assets/technologies/fastapi.png" width="48" height="48" alt="FastAPI logo"><br><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" alt="FastAPI" height="20"></a></td>
-<td align="center" width="110"><a href="https://react.dev/" title="React documentation"><img src="./assets/technologies/react.png" width="48" height="48" alt="React logo"><br><img src="https://img.shields.io/badge/React-087EA4?style=flat-square" alt="React" height="20"></a></td>
-<td align="center" width="110"><a href="https://docs.flutter.dev/" title="Flutter documentation"><img src="./assets/technologies/flutter.png" width="48" height="48" alt="Flutter logo"><br><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square" alt="Flutter" height="20"></a></td>
-</tr>
-<tr>
-<td align="center" width="110"><a href="https://dart.dev/" title="Dart documentation"><img src="./assets/technologies/dart.png" width="48" height="48" alt="Dart logo"><br><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square" alt="Dart" height="20"></a></td>
-<td align="center" width="110"><a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL" title="SQL documentation"><img src="./assets/technologies/sql.png" width="48" height="48" alt="SQL technical symbol"><br><img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL" height="20"></a></td>
-<td align="center" width="110"><a href="https://git-scm.com/doc" title="Git documentation"><img src="./assets/technologies/git.png" width="48" height="48" alt="Git logo"><br><img src="https://img.shields.io/badge/Git-F05032?style=flat-square" alt="Git" height="20"></a></td>
-<td align="center" width="110"><a href="https://dev.java/learn/" title="Java documentation"><img src="./assets/technologies/java.png" width="48" height="48" alt="Java logo"><br><img src="https://img.shields.io/badge/Java-C74634?style=flat-square" alt="Java" height="20"></a></td>
-<td align="center" width="110"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML documentation"><img src="./assets/technologies/html5.png" width="48" height="48" alt="HTML logo"><br><img src="https://img.shields.io/badge/HTML-557B91?style=flat-square" alt="HTML" height="20"></a></td>
-</tr>
-<tr>
-<td align="center" width="110"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS documentation"><img src="./assets/technologies/css3.png" width="48" height="48" alt="CSS logo"><br><img src="https://img.shields.io/badge/CSS-557B91?style=flat-square" alt="CSS" height="20"></a></td>
+<td align="center" width="100"><a href="https://docs.python.org/3/"><img src="./assets/technologies/python.png" width="46" height="46" alt="Python logo"><br><sub><b>Python</b></sub></a></td>
+<td align="center" width="100"><a href="https://pandas.pydata.org/docs/"><img src="./assets/technologies/pandas.png" width="46" height="46" alt="Pandas logo"><br><sub><b>Pandas</b></sub></a></td>
+<td align="center" width="100"><a href="https://numpy.org/doc/"><img src="./assets/technologies/numpy.png" width="46" height="46" alt="NumPy logo"><br><sub><b>NumPy</b></sub></a></td>
+<td align="center" width="100"><a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL"><img src="./assets/technologies/sql.png" width="46" height="46" alt="SQL logo"><br><sub><b>SQL</b></sub></a></td>
 </tr>
 </table>
 
-</details>
+<p>
+<a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-D98A2B?style=flat-square" alt="Scikit-learn — Machine Learning" height="22"></a>
+<a href="https://learn.microsoft.com/power-bi/"><img src="https://img.shields.io/badge/Power%20BI-Analytics-AE8A08?style=flat-square" alt="Power BI — Analytics" height="22"></a>
+</p>
 
-<details open>
-<summary><strong>Data &amp; Machine Learning</strong> &middot; 9 tools</summary>
+### AI / ML / GenAI
 
 <table>
 <tr>
-<td align="center" width="110"><a href="https://pandas.pydata.org/docs/" title="Pandas documentation"><img src="./assets/technologies/pandas.png" width="48" height="48" alt="Pandas logo"><br><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square" alt="Pandas" height="20"></a></td>
-<td align="center" width="110"><a href="https://numpy.org/doc/" title="NumPy documentation"><img src="./assets/technologies/numpy.png" width="48" height="48" alt="NumPy logo"><br><img src="https://img.shields.io/badge/NumPy-4D77CF?style=flat-square" alt="NumPy" height="20"></a></td>
-<td align="center" width="110"><a href="https://scikit-learn.org/stable/" title="Scikit-learn documentation"><img src="./assets/technologies/scikitlearn.png" width="48" height="48" alt="Scikit-learn logo"><br><img src="https://img.shields.io/badge/Scikit--learn-557B91?style=flat-square" alt="Scikit-learn" height="20"></a></td>
-<td align="center" width="110"><a href="https://www.tensorflow.org/lite" title="TensorFlow Lite documentation"><img src="./assets/technologies/tensorflow.png" width="48" height="48" alt="TensorFlow Lite logo"><br><img src="https://img.shields.io/badge/TensorFlow%20Lite-557B91?style=flat-square" alt="TensorFlow Lite" height="20"></a></td>
-<td align="center" width="110"><a href="https://developers.google.com/ml-kit" title="Google ML Kit documentation"><img src="./assets/technologies/mlkit.png" width="48" height="48" alt="Google ML Kit logo"><br><img src="https://img.shields.io/badge/Google%20ML%20Kit-557B91?style=flat-square" alt="Google ML Kit" height="20"></a></td>
+<td align="center" width="100"><a href="https://developers.google.com/ml-kit"><img src="./assets/technologies/mlkit.png" width="46" height="46" alt="Google ML Kit logo"><br><sub><b>Google ML Kit</b></sub></a></td>
+<td align="center" width="100"><a href="https://docs.opencv.org/"><img src="./assets/technologies/opencv.png" width="46" height="46" alt="OpenCV logo"><br><sub><b>OpenCV</b></sub></a></td>
+<td align="center" width="100"><a href="https://ai.google.dev/edge/mediapipe"><img src="./assets/technologies/mediapipe.png" width="46" height="46" alt="MediaPipe logo"><br><sub><b>MediaPipe</b></sub></a></td>
+<td align="center" width="100"><a href="https://docs.ollama.com/"><img src="./assets/technologies/ollama.png" width="46" height="46" alt="Ollama logo"><br><sub><b>Ollama</b></sub></a></td>
+<td align="center" width="100"><a href="https://docs.streamlit.io/"><img src="./assets/technologies/streamlit.png" width="46" height="46" alt="Streamlit logo"><br><sub><b>Streamlit</b></sub></a></td>
+<td align="center" width="100"><a href="https://docs.langchain.com/oss/python/langchain/overview"><img src="./assets/technologies/langchain.png" width="46" height="46" alt="LangChain logo"><br><sub><b>LangChain</b></sub></a></td>
 </tr>
 <tr>
-<td align="center" width="110"><a href="https://docs.opencv.org/" title="OpenCV documentation"><img src="./assets/technologies/opencv.png" width="48" height="48" alt="OpenCV logo"><br><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square" alt="OpenCV" height="20"></a></td>
-<td align="center" width="110"><a href="https://ai.google.dev/edge/mediapipe" title="MediaPipe documentation"><img src="./assets/technologies/mediapipe.png" width="48" height="48" alt="MediaPipe logo"><br><img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" alt="MediaPipe" height="20"></a></td>
-<td align="center" width="110"><a href="https://huggingface.co/learn/nlp-course/" title="NLP documentation"><img src="./assets/technologies/nlp.png" width="48" height="48" alt="NLP technical symbol"><br><img src="https://img.shields.io/badge/NLP-7568A6?style=flat-square" alt="NLP" height="20"></a></td>
-<td align="center" width="110"><a href="https://opencv.org/" title="Computer Vision documentation"><img src="./assets/technologies/computer-vision.png" width="48" height="48" alt="Computer Vision technical symbol"><br><img src="https://img.shields.io/badge/Computer%20Vision-7568A6?style=flat-square" alt="Computer Vision" height="20"></a></td>
+<td align="center" width="100"><a href="https://docs.langchain.com/oss/python/langgraph/overview"><img src="./assets/technologies/langgraph.png" width="46" height="46" alt="LangGraph logo"><br><sub><b>LangGraph</b></sub></a></td>
 </tr>
 </table>
 
-</details>
+<p>
+<a href="https://www.tensorflow.org/lite"><img src="https://img.shields.io/badge/TensorFlow%20Lite-On--Device%20AI-FF6F00?style=flat-square" alt="TensorFlow Lite — On-Device AI" height="22"></a>
+<a href="https://huggingface.co/learn/nlp-course/"><img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-2563EB?style=flat-square" alt="NLP — Natural Language Processing" height="22"></a>
+<a href="https://opencv.org/"><img src="https://img.shields.io/badge/Computer%20Vision-AI-059669?style=flat-square" alt="Computer Vision — AI" height="22"></a>
+<a href="https://console.groq.com/docs"><img src="https://img.shields.io/badge/Groq-LLM%20API-D64D87?style=flat-square" alt="Groq — LLM API" height="22"></a>
+<a href="https://www.sbert.net/"><img src="https://img.shields.io/badge/Sentence%20Transformers-Semantic%20Matching-D7A600?style=flat-square" alt="Sentence Transformers — Semantic Matching" height="22"></a>
+<a href="https://huggingface.co/docs/transformers/"><img src="https://img.shields.io/badge/LLMs-Generative%20AI-7C3AED?style=flat-square" alt="LLMs — Generative AI" height="22"></a>
+<a href="https://docs.langchain.com/oss/python/langchain/rag"><img src="https://img.shields.io/badge/RAG-Retrieval-4F46E5?style=flat-square" alt="RAG — Retrieval" height="22"></a>
+<a href="https://docs.langchain.com/oss/python/langchain/agents"><img src="https://img.shields.io/badge/AI%20Agents-Workflows-7C5AAB?style=flat-square" alt="AI Agents — Workflows" height="22"></a>
+<a href="https://ai.google.dev/gemini-api/docs/prompting-strategies"><img src="https://img.shields.io/badge/Prompt%20Engineering-LLM%20Design-8752A5?style=flat-square" alt="Prompt Engineering — LLM Design" height="22"></a>
+</p>
 
-<details open>
-<summary><strong>Generative AI</strong> &middot; 10 tools</summary>
+### Development & Tools
 
 <table>
 <tr>
-<td align="center" width="110"><a href="https://console.groq.com/docs" title="Groq documentation"><img src="./assets/technologies/groq.png" width="48" height="48" alt="Groq logo"><br><img src="https://img.shields.io/badge/Groq-C95843?style=flat-square" alt="Groq" height="20"></a></td>
-<td align="center" width="110"><a href="https://docs.ollama.com/" title="Ollama documentation"><img src="./assets/technologies/ollama.png" width="48" height="48" alt="Ollama logo"><br><img src="https://img.shields.io/badge/Ollama-454B56?style=flat-square" alt="Ollama" height="20"></a></td>
-<td align="center" width="110"><a href="https://docs.streamlit.io/" title="Streamlit documentation"><img src="./assets/technologies/streamlit.png" width="48" height="48" alt="Streamlit logo"><br><img src="https://img.shields.io/badge/Streamlit-E94E57?style=flat-square" alt="Streamlit" height="20"></a></td>
-<td align="center" width="110"><a href="https://www.sbert.net/" title="Sentence Transformers documentation"><img src="./assets/technologies/sentence-transformers.png" width="48" height="48" alt="Sentence Transformers logo"><br><img src="https://img.shields.io/badge/Sentence%20Transformers-557B91?style=flat-square" alt="Sentence Transformers" height="20"></a></td>
-<td align="center" width="110"><a href="https://docs.langchain.com/oss/python/langchain/overview" title="LangChain documentation"><img src="./assets/technologies/langchain.png" width="48" height="48" alt="LangChain logo"><br><img src="https://img.shields.io/badge/LangChain-337C74?style=flat-square" alt="LangChain" height="20"></a></td>
+<td align="center" width="100"><a href="https://docs.djangoproject.com/"><img src="./assets/technologies/django.png" width="46" height="46" alt="Django logo"><br><sub><b>Django</b></sub></a></td>
+<td align="center" width="100"><a href="https://react.dev/"><img src="./assets/technologies/react.png" width="46" height="46" alt="React logo"><br><sub><b>React</b></sub></a></td>
+<td align="center" width="100"><a href="https://docs.flutter.dev/"><img src="./assets/technologies/flutter.png" width="46" height="46" alt="Flutter logo"><br><sub><b>Flutter</b></sub></a></td>
+<td align="center" width="100"><a href="https://dart.dev/"><img src="./assets/technologies/dart.png" width="46" height="46" alt="Dart logo"><br><sub><b>Dart</b></sub></a></td>
+<td align="center" width="100"><a href="https://git-scm.com/doc"><img src="./assets/technologies/git.png" width="46" height="46" alt="Git logo"><br><sub><b>Git</b></sub></a></td>
+<td align="center" width="100"><a href="https://dev.java/learn/"><img src="./assets/technologies/java.png" width="46" height="46" alt="Java logo"><br><sub><b>Java</b></sub></a></td>
 </tr>
 <tr>
-<td align="center" width="110"><a href="https://docs.langchain.com/oss/python/langgraph/overview" title="LangGraph documentation"><img src="./assets/technologies/langgraph.png" width="48" height="48" alt="LangGraph logo"><br><img src="https://img.shields.io/badge/LangGraph-476F5D?style=flat-square" alt="LangGraph" height="20"></a></td>
-<td align="center" width="110"><a href="https://huggingface.co/docs/transformers/" title="LLMs documentation"><img src="./assets/technologies/llms.png" width="48" height="48" alt="LLMs technical symbol"><br><img src="https://img.shields.io/badge/LLMs-7568A6?style=flat-square" alt="LLMs" height="20"></a></td>
-<td align="center" width="110"><a href="https://docs.langchain.com/oss/python/langchain/rag" title="RAG documentation"><img src="./assets/technologies/rag.png" width="48" height="48" alt="RAG technical symbol"><br><img src="https://img.shields.io/badge/RAG-7568A6?style=flat-square" alt="RAG" height="20"></a></td>
-<td align="center" width="110"><a href="https://docs.langchain.com/oss/python/langchain/agents" title="AI Agents documentation"><img src="./assets/technologies/ai-agents.png" width="48" height="48" alt="AI Agents technical symbol"><br><img src="https://img.shields.io/badge/AI%20Agents-7568A6?style=flat-square" alt="AI Agents" height="20"></a></td>
-<td align="center" width="110"><a href="https://ai.google.dev/gemini-api/docs/prompting-strategies" title="Prompt Engineering documentation"><img src="./assets/technologies/prompt-engineering.png" width="48" height="48" alt="Prompt Engineering technical symbol"><br><img src="https://img.shields.io/badge/Prompt%20Engineering-7568A6?style=flat-square" alt="Prompt Engineering" height="20"></a></td>
+<td align="center" width="100"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./assets/technologies/html5.png" width="46" height="46" alt="HTML logo"><br><sub><b>HTML</b></sub></a></td>
+<td align="center" width="100"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./assets/technologies/css3.png" width="46" height="46" alt="CSS logo"><br><sub><b>CSS</b></sub></a></td>
+<td align="center" width="100"><a href="https://docs.github.com/"><img src="./assets/technologies/github.png" width="46" height="46" alt="GitHub logo"><br><sub><b>GitHub</b></sub></a></td>
+<td align="center" width="100"><a href="https://code.visualstudio.com/docs"><img src="./assets/technologies/vscode.png" width="46" height="46" alt="VS Code logo"><br><sub><b>VS Code</b></sub></a></td>
+<td align="center" width="100"><a href="https://docs.docker.com/"><img src="./assets/technologies/docker.png" width="46" height="46" alt="Docker logo"><br><sub><b>Docker</b></sub></a></td>
 </tr>
 </table>
 
-</details>
-
-<details open>
-<summary><strong>Tools &amp; Platforms</strong> &middot; 9 tools</summary>
-
-<table>
-<tr>
-<td align="center" width="110"><a href="https://docs.github.com/" title="GitHub documentation"><img src="./assets/technologies/github.png" width="48" height="48" alt="GitHub logo"><br><img src="https://img.shields.io/badge/GitHub-454B56?style=flat-square" alt="GitHub" height="20"></a></td>
-<td align="center" width="110"><a href="https://code.visualstudio.com/docs" title="VS Code documentation"><img src="./assets/technologies/vscode.png" width="48" height="48" alt="VS Code logo"><br><img src="https://img.shields.io/badge/VS%20Code-237AC0?style=flat-square" alt="VS Code" height="20"></a></td>
-<td align="center" width="110"><a href="https://docs.jupyter.org/" title="Jupyter Notebook documentation"><img src="./assets/technologies/jupyter.png" width="48" height="48" alt="Jupyter Notebook logo"><br><img src="https://img.shields.io/badge/Jupyter%20Notebook-E98235?style=flat-square" alt="Jupyter Notebook" height="20"></a></td>
-<td align="center" width="110"><a href="https://colab.research.google.com/" title="Google Colab documentation"><img src="./assets/technologies/googlecolab.png" width="48" height="48" alt="Google Colab logo"><br><img src="https://img.shields.io/badge/Google%20Colab-557B91?style=flat-square" alt="Google Colab" height="20"></a></td>
-<td align="center" width="110"><a href="https://www.ibm.com/products/watsonx-ai" title="IBM watsonx.ai documentation"><img src="./assets/technologies/watsonx-ai.png" width="48" height="48" alt="IBM watsonx.ai logo"><br><img src="https://img.shields.io/badge/IBM%20watsonx.ai-557B91?style=flat-square" alt="IBM watsonx.ai" height="20"></a></td>
-</tr>
-<tr>
-<td align="center" width="110"><a href="https://cloud.ibm.com/docs" title="IBM Cloud documentation"><img src="./assets/technologies/ibm-cloud.png" width="48" height="48" alt="IBM Cloud logo"><br><img src="https://img.shields.io/badge/IBM%20Cloud-557B91?style=flat-square" alt="IBM Cloud" height="20"></a></td>
-<td align="center" width="110"><a href="https://docs.docker.com/" title="Docker documentation"><img src="./assets/technologies/docker.png" width="48" height="48" alt="Docker logo"><br><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" alt="Docker" height="20"></a></td>
-<td align="center" width="110"><a href="https://learning.postman.com/docs/" title="Postman documentation"><img src="./assets/technologies/postman.png" width="48" height="48" alt="Postman logo"><br><img src="https://img.shields.io/badge/Postman-EF7245?style=flat-square" alt="Postman" height="20"></a></td>
-<td align="center" width="110"><a href="https://firebase.google.com/docs" title="Firebase documentation"><img src="./assets/technologies/firebase.png" width="48" height="48" alt="Firebase logo"><br><img src="https://img.shields.io/badge/Firebase-BF841C?style=flat-square" alt="Firebase" height="20"></a></td>
-</tr>
-</table>
-
-</details>
-
-<details open>
-<summary><strong>More tools I use</strong> &middot; 4 tools</summary>
-
-<table>
-<tr>
-<td align="center" width="110"><a href="https://learn.microsoft.com/power-bi/" title="Power BI documentation"><img src="./assets/technologies/powerbi.png" width="48" height="48" alt="Power BI logo"><br><img src="https://img.shields.io/badge/Power%20BI-AC8C15?style=flat-square" alt="Power BI" height="20"></a></td>
-<td align="center" width="110"><a href="https://developer.android.com/" title="Android documentation"><img src="./assets/technologies/android.png" width="48" height="48" alt="Android logo"><br><img src="https://img.shields.io/badge/Android-6A9334?style=flat-square" alt="Android" height="20"></a></td>
-<td align="center" width="110"><a href="https://docs.pytest.org/" title="pytest documentation"><img src="./assets/technologies/pytest.png" width="48" height="48" alt="pytest logo"><br><img src="https://img.shields.io/badge/pytest-2687A7?style=flat-square" alt="pytest" height="20"></a></td>
-<td align="center" width="110"><a href="https://docs.github.com/actions" title="GitHub Actions documentation"><img src="./assets/technologies/github-actions.png" width="48" height="48" alt="GitHub Actions logo"><br><img src="https://img.shields.io/badge/GitHub%20Actions-2879C9?style=flat-square" alt="GitHub Actions" height="20"></a></td>
-</tr>
-</table>
-
-</details>
+<p>
+<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-Python%20APIs-009688?style=flat-square" alt="FastAPI — Python APIs" height="22"></a>
+<a href="https://docs.jupyter.org/"><img src="https://img.shields.io/badge/Jupyter%20Notebook-Notebooks-D76D2A?style=flat-square" alt="Jupyter Notebook — Notebooks" height="22"></a>
+<a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google%20Colab-Cloud%20Notebooks-AF820E?style=flat-square" alt="Google Colab — Cloud Notebooks" height="22"></a>
+<a href="https://www.ibm.com/products/watsonx-ai"><img src="https://img.shields.io/badge/IBM%20watsonx.ai-Generative%20AI-1261C4?style=flat-square" alt="IBM watsonx.ai — Generative AI" height="22"></a>
+<a href="https://cloud.ibm.com/docs"><img src="https://img.shields.io/badge/IBM%20Cloud-Cloud%20Platform-205DB5?style=flat-square" alt="IBM Cloud — Cloud Platform" height="22"></a>
+<a href="https://learning.postman.com/docs/"><img src="https://img.shields.io/badge/Postman-API%20Testing-DD6845?style=flat-square" alt="Postman — API Testing" height="22"></a>
+<a href="https://firebase.google.com/docs"><img src="https://img.shields.io/badge/Firebase-App%20Platform-BC811E?style=flat-square" alt="Firebase — App Platform" height="22"></a>
+<a href="https://developer.android.com/"><img src="https://img.shields.io/badge/Android-Mobile-668D38?style=flat-square" alt="Android — Mobile" height="22"></a>
+<a href="https://docs.pytest.org/"><img src="https://img.shields.io/badge/pytest-Testing-2C8CA6?style=flat-square" alt="pytest — Testing" height="22"></a>
+<a href="https://docs.github.com/actions"><img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2478CF?style=flat-square" alt="GitHub Actions — CI/CD" height="22"></a>
+</p>
 
 ---
 
-<a id="featured-work"></a>
 ## ☆ Featured Projects
 
 <table>
@@ -197,21 +162,21 @@ Real-time Android driver safety application that detects drowsiness and distract
 
 **Key Features:** Eye-closure detection · Yawn detection · Head-pose monitoring · Offline on-device inference · Voice alerts · Emergency contacts · Automatic SMS alerts · Repeated SMS escalation
 
-**[View Repository ↗](https://github.com/pallavivhalgade/AI-Based-Driver-Fatigue-and-Distraction-Detection)** · **[Android builds ↗](https://github.com/pallavivhalgade/AI-Based-Driver-Fatigue-and-Distraction-Detection/actions/workflows/android-release.yml)**
+**[View Repository ↗](https://github.com/pallavivhalgade/AI-Based-Driver-Fatigue-and-Distraction-Detection)** · **[Download APK ↗](https://github.com/pallavivhalgade/AI-Based-Driver-Fatigue-and-Distraction-Detection/releases/download/v1.0.0/app-release.apk)**
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 Interview Prep Agent
+### 🤖 CareerPilot AI
 
-AI-powered interview preparation application that analyzes resumes and job descriptions to generate role-specific questions, grounded answers, skill-gap insights, and personalized study plans.
+A career preparation workspace for resume matching, interview practice, personalized seven-day plans, and contextual career coaching.
 
-`Python` `Streamlit` `Groq LLM` `Sentence Transformers` `Generative AI`
+`React` `FastAPI` `Ollama` `LangChain` `LangGraph` `ChromaDB`
 
-**Key Features:** Resume–JD matching · Skill-gap analysis · Role-specific interview questions · Grounded answers · AI question review · Personalized study plans
+**Key Features:** Resume–JD matching · Skill-gap insights · Interview practice · Grounded preparation plans
 
-**[View Repository ↗](https://github.com/pallavivhalgade/interview-prep-agent)** · **[Live Demo ↗](https://interview-prep-agent-94gjmmzu9q3w9gp4by8uan.streamlit.app/)**
+**[View Repository ↗](https://github.com/pallavivhalgade/CareerPilotAI)** · **[Live Demo ↗](https://careerpilot-ai-three-virid.vercel.app)**
 
 </td>
 
@@ -235,15 +200,15 @@ Role-based healthcare appointment platform with secure scheduling, validation, a
 
 <td width="50%" valign="top">
 
-### ✦ CareerPilot AI
+### ✦ Personal Portfolio
 
-A career preparation workspace for resume matching, interview practice, personalized seven-day plans, and contextual career coaching.
+My updated portfolio showcasing AI/ML projects, experience, technical skills, education, resume, live demos, and the DriverGuard AI Android application.
 
-`React` `FastAPI` `Ollama` `LangChain` `LangGraph` `ChromaDB`
+`HTML` `CSS` `JavaScript` `Vercel`
 
-**Key Features:** Resume–JD matching · Skill-gap insights · Interview practice · Grounded preparation plans
+**Key Features:** Responsive design · AI/ML project showcase · Live demos · DriverGuard APK · Resume · Skills · Experience · Contact links
 
-**[View Repository ↗](https://github.com/pallavivhalgade/CareerPilotAI)** · **[Live Demo ↗](https://careerpilot-ai-three-virid.vercel.app)**
+**[Visit Updated Portfolio ↗](https://pallavi-portfolio-preview.vercel.app)**
 
 </td>
 
@@ -251,17 +216,6 @@ A career preparation workspace for resume matching, interview practice, personal
 </table>
 
 ---
-
-<details>
-<summary><strong>More data and AI projects</strong></summary>
-
-| Project | Explore |
-| --- | --- |
-| Customer Behavior Analysis | [Python, SQL & Power BI](https://github.com/pallavivhalgade/customer-analysis-python-PowerBI) |
-| Vendor Performance Analysis | [Inventory, profitability & supplier insights](https://github.com/pallavivhalgade/vendor-performance-analysis-sql-python-powerbi-) |
-| LearnMate | [Personalized pathways with IBM watsonx](https://github.com/pallavivhalgade/learnmate-watsonx) |
-
-</details>
 
 <div align="center">
 
