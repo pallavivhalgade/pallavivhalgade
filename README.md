@@ -30,7 +30,7 @@ I turn data into intelligence and ideas into practical systems.
 <p>
 <a href="https://pallavi-portfolio-preview.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/pallavi-vholgade-05565b24b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:pallavivhalgade@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4C89?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:vhalgadepallavi45@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4C89?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://pallavi-portfolio-preview.vercel.app/assets/Pallavi_Vholgade_BE.pdf"><img src="https://img.shields.io/badge/Resume-View-111827?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
 </p>
 
